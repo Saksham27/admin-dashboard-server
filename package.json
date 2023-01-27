@@ -1,0 +1,30 @@
+{
+  "name": "admin-dashbaord-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saksham27/admin-dashbaord-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saksham27/admin-dashbaord-server/issues"
+  },
+  "homepage": "https://github.com/Saksham27/admin-dashbaord-server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "mongoose": "^6.9.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
